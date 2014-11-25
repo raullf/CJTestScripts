@@ -5,7 +5,7 @@ from uiautomator import device as d
 
 class PerformanceTest(unittest.TestCase):
 	"""
-		performance test for caijing app
+		performance test for caijing app.
 	"""
 	def setUp(self):
 		super(PerformanceTest,self).setUp()
